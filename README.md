@@ -1,2 +1,2 @@
 # BINGO
-Bingo Game
+Bingo Game running on MATLAB
